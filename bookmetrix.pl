@@ -1,6 +1,5 @@
 #!/usr/lib/perl5
-#Author: Neyaz Ahmad
-#Version 1.5
+
 #perl /home/rahulw/Citation_Metrics/bookmetrix.pl -d "10.1007/978-0-387-77650-7_5" -l "/home/rahulw/Citation_Metrics/LOGS" -r "STAT.txt" -c "cmd"
 
 #perl d:/Working/BookMetrix/bookmetrix.pl -d "10.1007/978-0-387-77650-7_5" -l "d:/Working/BookMetrix/LOGS" -r "STAT.txt" -c "cmd"
@@ -37,10 +36,10 @@ print "sript path is ModulesPath = $ModulesPath\n";
 		unshift(@INC, "$SCRITPATH");
 		print "\n\n\n\n\t\t***************\n \"$SCRITPATHLocalLib\"\n  Missing! \n\t\t***************\n\n\n\n"
 	}
-#use lib '/home/rahulw/Citation_Metrics/BookMetrix/lib';
+;
   
 print "\n\nFinal script path is $SCRITPATH\n";
-#exit;
+
 }
 
 
