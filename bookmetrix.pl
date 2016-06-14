@@ -1,6 +1,6 @@
 #!/usr/lib/perl5
 
-#perl /home/rahulw/Citation_Metrics/bookmetrix.pl -d "10.1007/978-0-387-77650-7_5" -l "/home/rahulw/Citation_Metrics/LOGS" -r "STAT.txt" -c "cmd"
+#test changes
 
 #perl d:/Working/BookMetrix/bookmetrix.pl -d "10.1007/978-0-387-77650-7_5" -l "d:/Working/BookMetrix/LOGS" -r "STAT.txt" -c "cmd"
 #perl d:/Working/BookMetrix/bookmetrix.pl -d "10.1007/978-1-4614-4475-6_7" -l "d:/Working/BookMetrix/LOGS" -r "STAT.txt" -c "cmd"
